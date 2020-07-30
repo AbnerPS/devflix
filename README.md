@@ -1,19 +1,19 @@
 <h4 align="center">
 <img src="./src/assets/logo-devflix.png" align="center"/>
 <br><br>
- ✴️ Assista seu youtubers favoritos sobre tecnologia ✴️
+ 📺 Assista seu vídeos favoritos sobre tecnologia aqui 📺
 </h4>
 <p align="center">
-    <img src="https://img.shields.io/github/repo-size/AbnerPS/star-wars-wiki"/>
-    <img src="https://img.shields.io/github/languages/count/AbnerPS/star-wars-wiki?color=purple"/>
-    <img src="https://img.shields.io/github/last-commit/AbnerPS/star-wars-wiki"/>
-    <img src="https://img.shields.io/github/issues/AbnerPS/star-wars-wiki?color=red"/>
-    <img src="https://img.shields.io/github/license/AbnerPS/star-wars-wiki?color=yellow"/>
+    <img src="https://img.shields.io/github/repo-size/AbnerPS/devflix"/>
+    <img src="https://img.shields.io/github/languages/count/AbnerPS/devflix?color=purple"/>
+    <img src="https://img.shields.io/github/last-commit/AbnerPS/devflix"/>
+    <img src="https://img.shields.io/github/issues/AbnerPS/devflix?color=red"/>
+    <img src="https://img.shields.io/github/license/AbnerPS/devflix?color=yellow"/>
 </p>
 
 # 🚀 Sobre o projeto 
 
-Assista seu youtubers favoritos sobre tecnologia. 🤓
+Na Devflix você pode assista seu youtubers favoritos sobre tecnologia. 🤓
 
 # ⚙️ Como executar
 
@@ -41,11 +41,6 @@ Segue abaixo uma lista com as principais técnologias utilizados no desenvolvime
 
 ### ⚛️ Frameworks
 - [x] [React](https://pt-br.reactjs.org/)
-
-### 📚 Bibliotecas e Dependências
-- [x] [Axios](https://github.com/axios/axios)
-- [x] [RSuite](https://rsuitejs.com/)
-- [x] [Date-fns](https://date-fns.org/)
 
 # :computer: Screenshots
 
