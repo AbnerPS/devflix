@@ -1,0 +1,33 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Front End",
+            "descricao": "Categorias de videos sobre tecnologias front end.",
+            "cor": "#9bf6ff"
+        },
+
+        {
+            "id": 2,
+            "nome": "Back End",
+            "descricao": "Categorias de videos sobre tecnologias back end.",
+            "cor": "#bdb2ff"
+        },
+
+        {
+            "id": 3,
+            "nome": "Mobile",
+            "descricao": "Categorias de videos sobre tecnologias mobile.",
+            "cor": "#fdffb6"
+        },
+
+        {
+            "id": 4,
+            "nome": "Data Scienc",
+            "descricao": "Categorias de videos sobre tecnologias data scienc.",
+            "cor": "#caffbf"
+        }
+    ]
+        
+    
+}
